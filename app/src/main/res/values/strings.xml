@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MvpProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_for_first_screen">Counter on second screen:</string>
+    <string name="label_for_second_screen">Counter on first screen:</string>
+    <string name="hint_zero">0</string>
+    <string name="minus">Minus</string>
+    <string name="plus">Plus</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+</resources>
